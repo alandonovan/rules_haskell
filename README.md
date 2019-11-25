@@ -26,6 +26,23 @@ You'll need [Bazel >= 0.29][bazel-getting-started] installed.
 
 If you are on NixOS, skip to the [Nixpkgs](#Nixpkgs) section.
 
+### System dependencies
+
+On a Unix system you will need the following tools installed.
+
+- `gcc`
+- `libgmp`
+- `libtinfo5`
+- `make`
+- `python3`
+
+On Windows you will need.
+
+- `msys2`
+- `python3`
+
+If you are on NixOS, skip to the [Nixpkgs](#Nixpkgs) section.
+
 ### The easy way
 
 In a fresh directory, run:
