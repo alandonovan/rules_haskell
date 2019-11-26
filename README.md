@@ -41,8 +41,6 @@ On Windows you will need.
 - `msys2`
 - `python3`
 
-If you are on NixOS, skip to the [Nixpkgs](#Nixpkgs) section.
-
 ### The easy way
 
 In a fresh directory, run:
