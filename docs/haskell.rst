@@ -25,9 +25,26 @@ In this tutorial you'll learn how to:
 Before you begin
 ----------------
 
-To prepare for the tutorial, first `install Bazel`_ if you don't have
-it installed already. Then, retrieve the ``rules_haskell`` GitHub
-repository::
+On a Unix system you will need the following tools installed.
+
+* ``gcc``
+* ``libffi``
+* ``libgmp``
+* ``libtinfo5``
+* ``make``
+* ``python3``
+
+On Ubuntu you can obtain them by installing the following packages. ::
+
+  build-essential libffi-dev libgmp-dev libtinfo5 libtinfo-dev python
+
+On Windows you will need.
+
+- ``msys2``
+- ``python3``
+
+Next, `install Bazel`_ if you don't have it installed already. Then, retrieve
+the ``rules_haskell`` GitHub repository::
 
   git clone https://github.com/tweag/rules_haskell/
 
