@@ -28,25 +28,7 @@ If you are on NixOS, skip to the [Nixpkgs](#Nixpkgs) section.
 
 ### System dependencies
 
-On a Unix system you will need the following tools installed.
-
-- `gcc`
-- `libffi`
-- `libgmp`
-- `libtinfo5`
-- `make`
-- `python3`
-
-On Ubuntu you can obtain them by installing the following packages.
-
-```
-build-essential libffi-dev libgmp-dev libtinfo5 libtinfo-dev python
-```
-
-On Windows you will need.
-
-- `msys2`
-- `python3`
+Refer to the "Before you begin" section in [the documentation](docs/haskell.rst).
 
 ### The easy way
 
