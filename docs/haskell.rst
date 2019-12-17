@@ -36,7 +36,7 @@ On a Unix system you will need the following tools installed.
 
 On Ubuntu you can obtain them by installing the following packages. ::
 
-  build-essential libffi-dev libgmp-dev libtinfo5 libtinfo-dev python
+  build-essential libffi-dev libgmp-dev libtinfo5 libtinfo-dev python3
 
 On Windows you will need.
 
