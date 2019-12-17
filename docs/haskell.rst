@@ -32,7 +32,7 @@ On a Unix system you will need the following tools installed.
 * ``libgmp``
 * ``libtinfo5``
 * ``make``
-* ``python3`` (``python`` also needs to be available in ``$PATH``, depending on your distro, this might require ``python2`` too)
+* ``python3`` (``python`` also needs to be available in ``$PATH``. Depending on your distro, this might require installing the ``python`` meta-package, which might use Python 2 or 3, ``rules_haskell`` works with both.)
 
 On Ubuntu you can obtain them by installing the following packages. ::
 
