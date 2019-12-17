@@ -32,7 +32,7 @@ On a Unix system you will need the following tools installed.
 * ``libgmp``
 * ``libtinfo5``
 * ``make``
-* ``python3`` (``/usr/bin/env python`` needs to be available)
+* ``python3`` (``python`` also needs to be available in ``$PATH``, depending on your distro, this might require ``python2`` too)
 
 On Ubuntu you can obtain them by installing the following packages. ::
 
